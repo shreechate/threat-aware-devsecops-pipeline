@@ -29,5 +29,6 @@ The core principle is to "Shift Left," embedding security from the initial desig
 
 4.Technology Stack
 
-<img width="687" height="488" alt="Tech STAck" src="https://github.com/user-attachments/assets/c7bdfc1e-7811-43fb-bc38-4251cda35f3c" />
+<img width="496" height="393" alt="TS" src="https://github.com/user-attachments/assets/9aaa85be-6d2e-43a8-b634-d56dcc14ee3a" />
+
 
